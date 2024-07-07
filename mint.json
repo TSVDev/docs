@@ -13,9 +13,11 @@
     "anchors": {
       "from": "#ff7700",
       "to": "#ff7700"
-    },
-    "versions": ["v2", "v1"]
+    }
   },
+  
+  "versions": ["v2", "v1"]
+
   "topbarLinks": [
     {
       "name": "Support Server",

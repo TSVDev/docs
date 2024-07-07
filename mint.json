@@ -16,7 +16,7 @@
     }
   },
   
-  "versions": ["v2", "v1"]
+  "versions": ["v2", "v1"],
 
   "topbarLinks": [
     {

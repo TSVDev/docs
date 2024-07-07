@@ -11,14 +11,16 @@
     "light": "#ff7700",
     "dark": "#ff7700",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
+      "from": "#ff7700",
+      "to": "#ff7700"
+    },
+    "versions": ["v2", "v1"]
   },
   "topbarLinks": [
     {
       "name": "Support Server",
-      "url": "https://discord.gg/gSqepGdcnb"
+      "url": "https://discord.gg/gSqepGdcnb",
+      "version": "v2"
     }
   ],
   "topbarCtaButton": {

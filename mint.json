@@ -1,6 +1,7 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "SLSDocs",
+  "versions": ["v2", "v1"],
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -15,14 +16,11 @@
       "to": "#ff7700"
     }
   },
-  
-  "versions": ["v2", "v1"],
 
   "topbarLinks": [
     {
       "name": "Support Server",
       "url": "https://discord.gg/gSqepGdcnb",
-      "version": "v2"
     }
   ],
   "topbarCtaButton": {
@@ -39,7 +37,8 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://mintlify.com/docs",
+      "version": "v2"
     },
     {
       "name": "Community",

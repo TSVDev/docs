@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "TSVDevDocs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#ffc00",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Support Server",
+      "url": "https://discord.gg/gSqepGdcnb"
     }
   ],
   "topbarCtaButton": {
@@ -84,8 +84,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/gSqepGdcnb",
+    "github": "https://github.com/TSVDev",
+    "website": "https://tsvdev.carrd.co/",
+    "youtube": "https://www.youtube.com/@TheSecurityVault"
   }
 }

@@ -1,15 +1,15 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "TSVDevDocs",
+  "name": "SLSDocs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://cdn.discordapp.com/attachments/1155754977378189312/1259336659133272095/0dfa99df980adfe642941741e583e59d.png?ex=668b5028&is=6689fea8&hm=55e825bde34d629cd347fded4cc94f796ea67faeed1ff813b3c60b8960baee8f&",
   "colors": {
     "primary": "#ff7700",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#ff7700",
+    "dark": "#ff7700",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
